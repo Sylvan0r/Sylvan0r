@@ -44,7 +44,7 @@ Hi! I'm Adriano Martín Lorenzo, a programmer who loves challenges and learning 
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
   </a>
 
-  <a href="[https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/adriano-mart%C3%ADn-lorenzo-550972348/)](https://www.linkedin.com/in/adriano-mart%C3%ADn-lorenzo-550972348/](https://www.linkedin.com/in/adriano-mart%C3%ADn-lorenzo-550972348/)" target="_blank">
+  <a href="https://www.linkedin.com/in/adriano-mart%C3%ADn-lorenzo-550972348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" />
   </a>
 
